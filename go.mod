@@ -21,3 +21,43 @@ require (
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2 // indirect
 )
+
+replace github.com/luraproject/lura => github.com/VVhiteCoder/lura v1.4.1
+
+replace github.com/luraproject/lura/encoding => github.com/VVhiteCoder/lura/encoding v1.4.1
+
+replace github.com/luraproject/lura/register => github.com/VVhiteCoder/lura/register v1.4.1
+
+replace github.com/luraproject/lura/register/internal => github.com/VVhiteCoder/lura/register/internal v1.4.1
+
+replace github.com/luraproject/lura/config => github.com/VVhiteCoder/lura/config v1.4.1
+
+replace github.com/luraproject/lura/sd => github.com/VVhiteCoder/lura/sd v1.4.1
+
+replace github.com/luraproject/lura/transport/http/client => github.com/VVhiteCoder/lura/transport/http/client v1.4.1
+
+replace github.com/luraproject/lura/transport/http/server => github.com/VVhiteCoder/lura/transport/http/server v1.4.1
+
+replace github.com/luraproject/lura/logging => github.com/VVhiteCoder/lura/logging v1.4.1
+
+replace github.com/luraproject/lura/proxy/plugin => github.com/VVhiteCoder/lura/proxy/plugin v1.4.1
+
+replace github.com/luraproject/lura/plugin => github.com/VVhiteCoder/lura/plugin v1.4.1
+
+replace github.com/luraproject/lura/router => github.com/VVhiteCoder/lura/router v1.4.1
+
+replace github.com/luraproject/lura/router/mux => github.com/VVhiteCoder/lura/router/mux v1.4.1
+
+replace github.com/luraproject/lura/router/chi => github.com/VVhiteCoder/lura/router/chi v1.4.1
+
+replace github.com/luraproject/lura/router/gin => github.com/VVhiteCoder/lura/router/gin v1.4.1
+
+replace github.com/luraproject/lura/router/gorilla => github.com/VVhiteCoder/lura/router/gorilla v1.4.1
+
+replace github.com/luraproject/lura/router/httptreemux => github.com/VVhiteCoder/lura/router/httptreemux v1.4.1
+
+replace github.com/luraproject/lura/router/negroni => github.com/VVhiteCoder/lura/router/negroni v1.4.1
+
+replace github.com/luraproject/lura/core => github.com/VVhiteCoder/lura/core v1.4.1
+
+replace github.com/luraproject/lura/proxy => github.com/VVhiteCoder/lura/proxy v1.4.1
